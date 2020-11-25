@@ -1,0 +1,81 @@
+<html>
+<head>
+  <meta charset="utf-8">
+<title>Aleksandra Grbović Bitić</title>
+<link rel="stylesheet" type="text/css" href="stil.css" />
+
+</head>
+<body>
+
+<h1>Aleksandra Grbović Bitić</h1>
+<h2 style="text-align:center">Početna strana</h2>
+<p style="text-align:center"> Moje ime je Aleksandra Grbović Bitić. Student sam prve godine Matematičkog fakulteta. Završila sam prve tri godine Savremene Internacionalne škole, nakon čega sam poslednju godinu završila u gimnaziji Stefan Nemanja.
+<br> Oduvek sam volela fizičke aktivnosti. Trenirala sam sve od plivanja do skijanja. Jedini sportovi koji su me ikada zanimali jesu tenis i skijanje. Počela sam da skijam sa 3 godine, dok sam tenis počela da treniram sa 6. Međutim, nikada nisam imala veće zanimanje od par takmičenja iz zabave i rekreativnog treniranja. 
+<br> Ono što je uvek imalo moju punu pažnju jeste nebeska sfera. Sa sedam godina sam dobila svoju prvu veliku ilustrovanu enciklopediju zvanu Vasiona. Tada sam ozbiljnije počela da shvatam stvari.
+<br> Ta knjiga, pored moje porodice, jeste ono što je započelo moje ozbiljno interesovanje za vasionu i sve stvari vezane za istu. Takođe, neke od drugih stvari koje me zanimaju jesu i diplomatija, pravo, medicina, filozofija i istorija.
+</p>
+
+<nav>
+       <ul>
+         <li><a href="index.html" target="_blank">POCETNA STRANA</a></li>
+   <li><a href="matematika.html" target="_blank">MATEMATIKA</a></li>
+<li><a href="hobi.html" target="_blank">HOBI</a></li>
+        <li><a href="interesovanja.html" target="_blank">MOJA INTERESOVANJA</a></li>
+  </ul>
+</nav>
+</body>
+</html>
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Razne aktivnosti</title>
+  <link rel="stylesheet" type="text/css" href="stil.css" />
+<body>
+  <h1> Moji hobiji </h1>
+<p>
+<img src="rumba.jpg" alt="RUMBA" style="float:right;width:270px;height:480px;">
+   Međutim, moji glavni hobiji jesu tenis i skijanje. Tenis treniram od svoje šeste godine. Trenutno treniram 5 puta nedeljno u teniskom centru Đokovič na 25. maju. Ono što me privlači kod tenisa jeste tehnika i gracioznost samog sporta. 
+<br> Skijanjem sam počela da se bavim na početku svoje treće godine života. Skijanje ne mogu da opišem rečima, ali ću pokušati. Sneg na sunčan zimski dan, temperatura u minusu, a vi na čaju na ledenoj planini na 2000m nadmorske visine. Skijanje je za mene doživljaj za koje bih menjala svako letovanje. Najviše uživam u skakaonicama. Prošle godine sam polagala ispit za instruktora skijanja, što je samo dodatno potvrdilo moju ljubav prema sportu.
+
+<h2> </h2>
+
+<nav>
+       <ul>
+         <li><a href="index.html" target="_blank">POCETNA STRANA</a></li>
+   <li><a href="matematika.html" target="_blank">MATEMATIKA</a></li>
+        <li><a href="interesovanja.html" target="_blank">MOJA INTERESOVANJA</a></li>
+
+  </ul>
+</nav>
+</body>
+</html>
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Moja interesovanja</title>
+  <link rel="stylesheet" type="text/css" href="stil.css" />
+
+</head>
+<body>
+<h1>Moja interesovanja</h1>
+<p>Ovo je stranica na kojoj ću vam reći malo o svojim interesovanjima, tj. u čemu najviše uživam.</p>
+<p>Neke od mojih omiljenih knjiga:</p>
+<ul>
+  <li>The Devil to Pay in the Backlands by João Guimarães Rosa</li>
+  <li>War and Peace by Leo Tolstoy</li>
+  <li>Illiad by Homer</li>
+  <li>Dune by Frank Herbert</li>
+  <li>Beyond Good and Evil by Friedrich Nietzsche</li>
+</ul>
+
+<nav>
+       <ul>
+         <li><a href="index.html" target="_blank">POCETNA STRANA</a></li>
+   <li><a href="matematika.html" target="_blank">MATEMATIKA</a></li>
+<li><a href="hobi.html" target="_blank">HOBI</a></li>
+  </ul>
+</nav>
+</body>
+</html>
